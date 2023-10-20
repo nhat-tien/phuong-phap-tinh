@@ -45,7 +45,7 @@ class TinhChuSoDangTin():
             n = int(math.log10(saiSoTuyetDoi/omega))
 
             arrOfSoGanDung = list(self.soGanDung.get())
-
+            
             result = ""
 
             flag = False
